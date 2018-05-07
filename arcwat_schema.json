@@ -1,0 +1,7 @@
+{"Envelope":
+  {"ARC-Header-Metadata":{"Content-Length":"1", "Content-Type":"application/html", "Date":"20000101", "Target-URI":"http://source.com"}, 
+  "Payload-Metadata":{"HTTP-Response-Metadata":{"HTML-Metadata":{"Links":[{"text":"linktext", "url":"source.com"}, {"text":"linktext2", "url":"source2.com"}]  }}}
+  }
+}
+
+
